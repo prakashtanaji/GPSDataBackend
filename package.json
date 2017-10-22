@@ -1,0 +1,17 @@
+{
+  "name": "nodejsgpics",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \\\"No test\\\" && exit 1"
+  },
+  "author": "Dheeraj",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^1.12.1"
+  },
+  "dependencies": {
+    "express": "^4.16.2"
+  }
+}
